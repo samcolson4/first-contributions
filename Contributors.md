@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Yash Damani] (https://github.com/yashdamani)
 - [Tim Kay] (https://github.com/special-kay)
 - [Prateek Bhardwaj](www.github.com/prateek-ml) (or, Patrick if you will!)
@@ -3187,6 +3187,7 @@ Yogakshi Jaiman
 - [MarL Mazo](https://github.com/MarLMazo)
 - [Mihilt](https://github.com/mihilt)
 - Sagar Varma
+- Sam Colson (https://github.com/samcolson4)
 - [Alex Beaty](https://github.com/jncosideout)
 - [Mian Jawad Ahmad](https://github.com/MianJawadAhmad)
 - [Aizaz Ahmad](https://github.com/aaizkhan)
